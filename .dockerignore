@@ -13,7 +13,6 @@ __pycache__/
 # Tests and docs aren’t needed inside the runtime image
 /tests
 /docs
-README.md
 
 # OS clutter
 .DS_Store 
