@@ -212,6 +212,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [pybaseball](https://github.com/jldbc/pybaseball) for providing the baseball data interface
 - [Model Context Protocol](https://github.com/modelcontextprotocol/python-sdk) for the MCP framework
 
+
 ## Resources
 
 - [Model Context Protocol Python SDK](https://github.com/modelcontextprotocol/python-sdk)
